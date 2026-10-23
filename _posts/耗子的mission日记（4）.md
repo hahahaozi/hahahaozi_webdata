@@ -217,6 +217,24 @@ categories: Ingress
 
 耗子碎碎念：新业广场逛一圈，在这里开了牌子！补仓也补爽了~
 
+---
+
+#### Overlock for Shijiazhuang
+
+![Overlock for Shijiazhuang](OverlockforShijiazhuang.jpg)
+
+>申请人：<font color=blue>@Hahahaozi</font>
+>任务地点：长安公园
+>任务个数：6
+>任务介绍：为纪念Overlock功能而创作的一套横幅。位于石家庄长安公园，欢迎来石家庄游玩！全程hack
+>任务起点po：[标枪](https://intel.ingress.com/?pll=38.047896,114.508662)
+>Bannergress：[Overlock for Shijiazhuang](https://bannergress.com/banner/overlock-for-shijiazhuang-107f)
+>Trello：[Overlock for Shijiazhuang](https://trello.com/c/RGFPEBat)
+
+>任务难度指数：★★☆☆☆
+>任务推荐指数：★★★★☆
+
+耗子碎碎念：八月IFS~美味午饭~详见[石家庄IFS复活！](/posts/48211b61/)
 
 <!--
 ---
